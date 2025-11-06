@@ -1,7 +1,6 @@
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; color: #333; background-color: #fff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
   <!-- 头部信息 -->
   <header style="text-align: center; margin-bottom: 30px;">
-    <img src="https://github.com/你的用户名.png" alt="头像" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 4px solid #eee;">
     <h1 style="margin: 20px 0 10px; font-size: 2.2rem; color: #2d3748;">吴悠</h1>
     <p style="font-size: 1.1rem; color: #718096; margin: 0;">Unity开发工程师</p>
     <p style="margin: 15px 0; color: #4a5568; line-height: 1.6;">喜欢用代码解决实际问题，热衷开源</p>
@@ -34,13 +33,13 @@
     <div style="display: grid; grid-template-columns: 1fr; gap: 20px;">
       <!-- 项目1 -->
       <div style="border: 1px solid #e2e8f0; border-radius: 6px; padding: 15px; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
-        <h3 style="margin: 0 0 10px; color: #2b6cb0;"><a href="你的项目链接1" target="_blank" style="text-decoration: none;">项目名称1</a></h3>
+        <h3 style="margin: 0 0 10px; color: #2b6cb0;"><a href="你的项目链接1" target="_blank" style="text-decoration: none;">AI桌面助手</a></h3>
         <p style="margin: 0; color: #4a5568; font-size: 0.95rem;">基于Unity的AI桌面小助手</p>
       </div>
       
       <!-- 项目2 -->
       <div style="border: 1px solid #e2e8f0; border-radius: 6px; padding: 15px; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.boxShadow='none'">
-        <h3 style="margin: 0 0 10px; color: #2b6cb0;"><a href="你的项目链接2" target="_blank" style="text-decoration: none;">项目名称2</a></h3>
+        <h3 style="margin: 0 0 10px; color: #2b6cb0;"><a href="你的项目链接2" target="_blank" style="text-decoration: none;">AI智能问答助手</a></h3>
         <p style="margin: 0; color: #4a5568; font-size: 0.95rem;">基于Unity的AI智能问答助手（接入火山STS）</p>
       </div>
     </div>
