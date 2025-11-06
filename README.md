@@ -10,7 +10,7 @@
   <section style="margin-bottom: 30px;">
     <h2 style="font-size: 1.5rem; color: #2d3748; border-left: 4px solid #4299e1; padding-left: 10px; margin-bottom: 15px;">关于我</h2>
     <p style="line-height: 1.7; color: #4a5568;">
-      2024-Present 从事Unity开发工作；
+      2024-Present Lexxxx 从事Unity开发工作
     </p>
     <p style="line-height: 1.7; color: #4a5568;">
       2021-2024 硕士 就读于北京邮电大学计算机学院
